@@ -12,6 +12,7 @@ List of apps built on and/or implementing the [Solid platform](https://github.co
 
 - [Contacts manager (for vCards)](https://github.com/linkeddata/contacts) --
     (AngularJS, mobile friendly)
+- [File Extractor for PODs](https://github.com/dconorozzo/Solid-RDF-HexBin-File-Extraction) extract files from POD data
 - [Inbox](https://github.com/solid/solid-inbox/) -- notifications/messages app
 - [OpenLink Structured Data Editor (OSDE)](http://osde.openlinksw.com) -- RDF Editor with a "Save As" feature that 
   can save content to any Solid Pod
@@ -23,6 +24,7 @@ List of apps built on and/or implementing the [Solid platform](https://github.co
 - [Solid authorization Widget](https://github.com/bourgeoa/solid-file-widget) -- component for webapp 
 - [Solid Focus](https://noeldemartin.github.io/solid-focus/) -- task manager app
 - [Solid IDE](https://jeff-zucker.github.io/solid-ide/) -- file manager and IDE
+- [Solid POD Form Integration](https://www.formrouter.com/solid-project-pod-pdf-form-integration/online_forms_solid_pod.htm) submit online form data to PODs
 - [Solid Shell](https://github.com/jeff-zucker/solid-shell) -- command-line tool and interactive shell
 - [Solid Signup app](https://github.com/solid/solid-signup) -- for creating
     WebID accounts with Solid-compatible providers
