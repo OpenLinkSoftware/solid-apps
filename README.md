@@ -14,6 +14,7 @@ List of apps built on and/or implementing the [Solid platform](https://github.co
     (AngularJS, mobile friendly)
 - [File Extractor for PODs](https://github.com/dconorozzo/Solid-RDF-HexBin-File-Extraction) extract files from POD data
 - [Inbox](https://github.com/solid/solid-inbox/) -- notifications/messages app
+- [ODS-Briefcase](http://ods.openlinksw.com/wiki/ODS/OdsBriefcase) -- a module of [OpenLink Data Spaces (ODS)](http://ods.openlinksw.com/wiki/ODS/), ODS-Briefcase includes [Dynamic Extended Type (DET) WebDAV/LDP Folder](https://medium.com/virtuoso-blog/d25ab3dd27d9) support for Solid Pods, enabling read/write access for any WebDAV-compliant client, subject to Briefcase-managed ACLs. (Briefcase connects to the Pod as the Pod Owner, so has full privileges.)
 - [OpenLink Structured Data Editor (OSDE)](http://osde.openlinksw.com) -- RDF Editor with a "Save As" feature that 
   can save content to any Solid Pod
 - [OpenLink Structured Data Sniffer (OSDS)](http://osds.openlinksw.com) -- extracts Metadata (in a variety of notations) 
